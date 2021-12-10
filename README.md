@@ -8,9 +8,15 @@ ATALINK Technology was established in early 2018, providing online supply chain 
 
 
 WE NEED YOU:
-Senior/Middle NodeJS - 
-Senior Reactjs - 
-Data Engineer - 
+
+
+Senior/Middle NodeJS 
+
+
+Senior Reactjs 
+
+
+Data Engineer 
 
 
 
