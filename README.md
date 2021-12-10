@@ -21,35 +21,35 @@ Data Engineer
 
 
 YOUR SKILLS AND EXPERIENCE:
-At least 1-2 years of experience in working with database (PostgreSQL/SQL Server)
+- At least 1-2 years of experience in working with database (PostgreSQL/SQL Server)
 
-Good VBA skills 
+- Good VBA skills 
 
-Have knowledge of Python, Java, NodeJs is a plus
+- Have knowledge of Python, Java, NodeJs is a plus
 
-Problem solving and Analytical skill 
+- Problem solving and Analytical skill 
 
-Highly effective working in a team as well as working independently 
+- Highly effective working in a team as well as working independently 
 
 
 
 
 WHY YOU LOVE 
-Attractive salary and benefits (13th salary, distinguished employee of the quarter and year, seniority award…) 
+- Attractive salary and benefits (13th salary, distinguished employee of the quarter and year, seniority award…) 
 
-Performance appraisal twice a year
+- Performance appraisal twice a year
 
-Healthcare and accident insurance 
+- Healthcare and accident insurance 
 
-Lunch allowance, OT meal allowance 
+- Lunch allowance, OT meal allowance 
 
-Various training on best practices and soft skills 
+- Various training on best practices and soft skills 
 
-Team building activities in every summer, company trip, big annual year-end party every year, etc
+- Team building activities in every summer, company trip, big annual year-end party every year, etc
 
-Fitness & sports activities: football, tennis, table-tennis, badminton… 
+- Fitness & sports activities: football, tennis, table-tennis, badminton… 
 
-Commitment to community development: charity every quarter, blood donation, public seminars, career orientation talks… -
+- Commitment to community development: charity every quarter, blood donation, public seminars, career orientation talks… -
 Support for personal loans such as: home loan, vehicle loan, tuition fee… 
 
 
